@@ -1,0 +1,354 @@
+year|university|degree|basic_monthly_mean
+2009|Singapore Management University|Information Systems Management (4-yr programme) Cum Laude and above|4000
+2009|Singapore Management University|Economics (4-yr programme) Cum Laude and above|3200
+2009|Singapore Management University|Economics (4-yr programme)|3000
+2009|National University of Singapore|Business Administration (Honours)|3000
+2009|Singapore Management University|Business Management (4-yr programme) Cum Laude and above|3000
+2009|National University of Singapore|Chemical Engineering|3000
+2009|National University of Singapore|Industrial & Systems Engineering|3000
+2009|National University of Singapore|Dental Surgery|3000
+2009|Nanyang Technological University|Chemical & Biomolecular Engineering|3000
+2009|Nanyang Technological University|Aerospace Engineering|3000
+2009|Nanyang Technological University|Arts (with Education)|3000
+2009|National University of Singapore|Information Systems|2975
+2009|Nanyang Technological University|Physics & Applied Physics|2950
+2009|National University of Singapore|Computer Engineering|2900
+2009|Nanyang Technological University|Chemistry & Biological Chemistry|2900
+2009|National University of Singapore|Computer Science|2900
+2009|Nanyang Technological University|Computer Science|2900
+2009|Nanyang Technological University|Science (with Education)|2900
+2009|Nanyang Technological University|Computer Engineering|2900
+2009|National University of Singapore|Mechanical Engineering|2900
+2009|National University of Singapore|Science (Honours)|2900
+2010|National University of Singapore|Laws|4770
+2010|Singapore Management University|Information Systems Management (4-yr programme) Cum Laude and above|4547
+2010|National University of Singapore|Medicine and Surgery|3852
+2010|Singapore Management University|Business Management (4-yr programme) Cum Laude and above|3750
+2010|Singapore Management University|Accountancy Cum Laude and above|3625
+2010|Singapore Management University|Economics (4-yr programme) Cum Laude and above|3579
+2010|Singapore Management University|Social Sciences (4-yr programme) Cum Laude and above|3479
+2010|Singapore Management University|Information Systems Management (4-yr programme)|3474
+2010|National University of Singapore|Architecture|3445
+2010|Singapore Management University|Economics (4-yr programme)|3429
+2010|Nanyang Technological University|Computer Science|3385
+2010|National University of Singapore|Information Systems|3384
+2010|National University of Singapore|Industrial & Systems Engineering|3357
+2010|Nanyang Technological University|Aerospace Engineering|3344
+2010|National University of Singapore|Pharmacy|3298
+2010|Singapore Management University|Business Management (4-yr programme)|3292
+2010|National University of Singapore|Computer Science|3289
+2010|Nanyang Technological University|Arts (with Education)|3281
+2010|Nanyang Technological University|Computer Engineering|3272
+2010|National University of Singapore|Chemical Engineering|3259
+2010|National University of Singapore|Electrical Engineering|3235
+2010|National University of Singapore|Business Administration (Honours)|3232
+2010|Nanyang Technological University|Science (with Education)|3199
+2010|Nanyang Technological University|Chemical & Biomolecular Engineering|3182
+2010|National University of Singapore|Computer Engineering|3163
+2010|Singapore Management University|Accountancy (4-yr programme)|3162
+2010|Nanyang Technological University|Bioengineering|3160
+2010|Nanyang Technological University|Mathematics & Economics|3147
+2010|National University of Singapore|Computer Engineering|3140
+2010|Nanyang Technological University|Chinese|3118
+2010|National University of Singapore|Dental Surgery|3116
+2010|Nanyang Technological University|Electrical & Electronic Engineering|3110
+2010|National University of Singapore|Material Science and Engineering|3107
+2010|National University of Singapore|Business Administration (Accountancy)(Honours)|3081
+2010|Nanyang Technological University|Materials Engineering|3079
+2010|National University of Singapore|Mechanical Engineering|3067
+2010|Nanyang Technological University|Mechanical Engineering|3064
+2010|National University of Singapore|Social Sciences (Honours)|3062
+2010|National University of Singapore|Science (Honours)|3049
+2010|National University of Singapore|E.Commerce|3049
+2010|Nanyang Technological University|Mathematical Sciences|3022
+2010|National University of Singapore|Arts (Honours)|3021
+2010|National University of Singapore|Business Administration (3-yr programme)|3008
+2010|Nanyang Technological University|Economics|2995
+2010|National University of Singapore|Communication and Media|2993
+2010|Nanyang Technological University|Environmental Engineering|2982
+2010|Nanyang Technological University|Chemistry & Biological Chemistry|2981
+2010|Nanyang Technological University|Biological Sciences|2952
+2010|Nanyang Technological University|Biomedical Sciences|2950
+2010|Nanyang Technological University|Sociology|2950
+2010|National University of Singapore|Applied Science (Honours)|2944
+2010|National University of Singapore|Computing|2935
+2010|Nanyang Technological University|Business (3-yr direct Honours programme)|2933
+2010|Nanyang Technological University|Psychology|2932
+2010|Nanyang Technological University|Civil Engineering|2911
+2010|National University of Singapore|Environmental Engineering|2895
+2010|Nanyang Technological University|Physics|2862
+2010|Nanyang Technological University|Maritime Studies|2857
+2010|Nanyang Technological University|Communication Studies|2836
+2010|Singapore Management University|Social Sciences (4-yr programme)|2824
+2010|National University of Singapore|Bioengineering|2804
+2010|Nanyang Technological University|Accountancy (3-yr direct Honours programme)|2778
+2010|National University of Singapore|Real Estate|2762
+2010|National University of Singapore|Civil Engineering|2757
+2010|National University of Singapore|Business Administration (Accountancy)|2692
+2010|National University of Singapore|Project and Facilities Management|2657
+2010|National University of Singapore|Nursing|2655
+2010|National University of Singapore|Science|2653
+2010|National University of Singapore|Arts|2627
+2010|Nanyang Technological University|English Literature|2603
+2010|Nanyang Technological University|Art, Design & Media|2600
+2010|National University of Singapore|Engineering Science|2571
+2010|National University of Singapore|Applied Science|2427
+2011|National University of Singapore|Bachelor Laws (LLB) (Hons)|5037
+2011|Singapore Management University|Information Systems Management (4-year programme) – Cum Laude and above|4294
+2011|National University of Singapore|Bachelor of Medicine & Bachelor of Surgery (MBBS)|4016
+2011|Singapore Management University|Economics (4-year programme) – Cum Laude and above|3999
+2011|National University of Singapore|Bachelor of Computing (Information Systems)|3911
+2011|National University of Singapore|Bachelor of Business Administration (Hons)|3871
+2011|Singapore Management University|Business Management (4-year programme) – Cum Laude and above|3777
+2011|National University of Singapore|Bachelor of Arts (Architecture)|3677
+2011|Singapore Management University|Accountancy (4-year programme) – Cum Laude and above|3671
+2011|Singapore Management University|Information Systems Management (4-year programme)|3637
+2011|Nanyang Technological University|Computer Engineering|3577
+2011|Singapore Management University|Economics (4-year programme)|3559
+2011|National University of Singapore|Bachelor of Engineering (Industrial & Systems Engineering)|3539
+2011|Nanyang Technological University|Aerospace Engineering|3489
+2011|Singapore Management University|Social Sciences (4-year programme) – Cum Laude and above|3450
+2011|Nanyang Technological University|Computer Science|3425
+2011|National University of Singapore|Bachelor of Computing (Computer Engineering)|3421
+2011|Nanyang Technological University|(NIE) Arts (with Education)|3407
+2011|National University of Singapore|Bachelor of Business Administration (Accountancy) (Hons)|3393
+2011|Nanyang Technological University|(NIE) Science (with Education)|3381
+2011|National University of Singapore|Bachelor of Computing (Computer Science)|3376
+2011|Singapore Management University|Business Management (4-year programme)|3369
+2011|National University of Singapore|Bachelor of Engineering (Computer Engineering)|3367
+2011|National University of Singapore|Bachelor of Science (Pharmacy) (Hons)|3346
+2011|National University of Singapore|Bachelor of Engineering (Bioengineering)|3334
+2011|National University of Singapore|Bachelor of Engineering (Electrical Engineering)|3327
+2011|National University of Singapore|Bachelor of Engineering (Chemical Engineering)|3286
+2011|Nanyang Technological University|Chemical & Biomolecular Engineering|3276
+2011|Singapore Management University|Accountancy (4-year programme)|3267
+2011|National University of Singapore|Bachelor of Engineering (Materials Science & Engineering)|3255
+2011|Nanyang Technological University|Business (3-yr direct Honours programme)|3245
+2011|Nanyang Technological University|Electrical & Electronic Engineering|3243
+2011|Nanyang Technological University|Mathematical Sciences & Economics|3226
+2011|National University of Singapore|Bachelor of Engineering (Environmental Engineering)|3215
+2011|Nanyang Technological University|Economics|3209
+2011|National University of Singapore|Bachelor of Engineering (Engineering Science)|3203
+2011|Nanyang Technological University|Information Engineering and Media|3196
+2011|National University of Singapore|Bachelor of Computing (Communications and Media)|3175
+2011|Nanyang Technological University|Mechanical Engineering|3152
+2011|National University of Singapore|Bachelor of Arts (Hons)|3151
+2011|National University of Singapore|Bachelor of Engineering (Mechanical Engineering)|3143
+2011|National University of Singapore|Bachelor of Business Administration|3141
+2011|National University of Singapore|Bachelor of Science (Hons)|3138
+2011|National University of Singapore|Bachelor of Dental Surgery|3136
+2011|National University of Singapore|Bachelor of Engineering (Civil Engineering)|3126
+2011|Nanyang Technological University|Psychology|3125
+2011|Nanyang Technological University|Mathematical Sciences|3125
+2011|Nanyang Technological University|Civil Engineering|3115
+2011|Nanyang Technological University|Bioengineering|3094
+2011|National University of Singapore|Bachelor of Social Sciences (Hons)|3088
+2011|National University of Singapore|Bachelor of Computing (Electronic Commerce)|3075
+2011|Nanyang Technological University|Sociology|3055
+2011|Nanyang Technological University|Materials Engineering|3047
+2011|Nanyang Technological University|Chinese|3044
+2011|Singapore Management University|Social Sciences (4-year programme)|3043
+2011|Nanyang Technological University|Environmental Engineering|3034
+2011|Nanyang Technological University|Physics & Applied Physics|3024
+2011|Nanyang Technological University|Biological Sciences|2981
+2011|Nanyang Technological University|English Literature|2976
+2011|Nanyang Technological University|Communication Studies|2960
+2011|Nanyang Technological University|Chemistry & Biological Chemistry|2956
+2011|Nanyang Technological University|Maritime Studies|2906
+2011|Nanyang Technological University|Accountancy (3-yr direct Honours programme)|2900
+2011|National University of Singapore|Bachelor of Applied Science (Hons)|2890
+2011|National University of Singapore|Bachelor of Science (Real Estate)|2888
+2011|National University of Singapore|Bachelor of Arts|2763
+2011|National University of Singapore|Bachelor of Science (Project & Facilities Management)|2760
+2011|National University of Singapore|Bachelor of Business Administration (Accountancy)|2759
+2011|National University of Singapore|Bachelor of Science|2741
+2011|National University of Singapore|Bachelor of Science (Nursing)|2718
+2011|National University of Singapore|Bachelor of Applied Science|2647
+2011|Nanyang Technological University|Art, Design & Media|2563
+2012|Singapore Management University|Law (4-years programme) Cum Laude and above|5082
+2012|Singapore Management University|Law (4-years programme)|4975
+2012|National University of Singapore|Bachelor of Laws (LLB) (Hons)|4963
+2012|National University of Singapore|Bachelor of Medicine and Bachelor of Surgery|4799
+2012|National University of Singapore|Bachelor of Dental Surgery|4250
+2012|Singapore Management University|Economics (4-years programme) Cum Laude and above|4053
+2012|National University of Singapore|Bachelor of Business Administration (Hons)|3976
+2012|Singapore Management University|Information Systems Management (4-years programme) Cum Laude and above|3946
+2012|Singapore Management University|Business Management (4-years programme) Cum Laude and above|3854
+2012|Singapore Management University|Economics (4-years programme)|3768
+2012|Singapore Management University|Accountancy (4-years programme) Cum Laude and above|3765
+2012|National University of Singapore|Bachelor of Arts (Architecture)|3717
+2012|National University of Singapore|Bachelor of Computing (Computer Science)|3683
+2012|Nanyang Technological University|Business and Computing|3651
+2012|National University of Singapore|Bachelor of Computing (Computer Engineering)|3630
+2012|Nanyang Technological University|Aerospace Engineering|3578
+2012|National University of Singapore|Bachelor of Science (Pharmacy) (Hons)|3560
+2012|Singapore Management University|Social Sciences (4-years programme) Cum Laude and above|3496
+2012|Nanyang Technological University|Accountancy and Business|3464
+2012|National University of Singapore|Bachelor of Engineering (Industrial and Systems Engineering)|3442
+2012|Nanyang Technological University|Arts (with Education)|3430
+2012|Nanyang Technological University|Science (with Education)|3428
+2012|National University of Singapore|Bachelor of Business Administration (Accountancy) (Hons)|3423
+2012|National University of Singapore|Bachelor of Engineering (Computer Engineering)|3403
+2012|Singapore Management University|Information Systems Management (4-years programme)|3383
+2012|Nanyang Technological University|Computer Science|3371
+2012|Nanyang Technological University|Mathematical Science|3364
+2012|Nanyang Technological University|Electrical And Electronic Engineering|3359
+2012|National University of Singapore|Bachelor of Engineering (Mechanical Engineering)|3357
+2012|Singapore Management University|Business Management (4-years programme)|3348
+2012|National University of Singapore|Bachelor of Arts (Hons)|3344
+2012|Nanyang Technological University|Computer Engineering|3336
+2012|Nanyang Technological University|Maritime Studies|3336
+2012|National University of Singapore|Bachelor of Engineering (Chemical Engineering)|3335
+2012|Nanyang Technological University|Chemical And Biomolecular Engineering|3314
+2012|National University of Singapore|Bachelor of Engineering (Electrical Engineering)|3301
+2012|National University of Singapore|Bachelor of Social Sciences|3290
+2012|National University of Singapore|Bachelor of Computing (Electronic Commerce)|3289
+2012|Singapore Management University|Social Sciences (4-years programme)|3289
+2012|Nanyang Technological University|Physics / Applied Physics|3284
+2012|Nanyang Technological University|Mechanical Engineering|3272
+2012|Nanyang Technological University|Civil Engineering|3270
+2012|Singapore Management University|Accountancy (4-years programme)|3268
+2012|Nanyang Technological University|Business (3-yr direct Honours Programme)|3268
+2012|National University of Singapore|Bachelor of Business Administration|3238
+2012|National University of Singapore|Bachelor of Engineering (Engineering Science)|3232
+2012|National University of Singapore|Bachelor of Engineering (Environmental Engineering)|3206
+2012|Nanyang Technological University|Materials Engineering|3206
+2012|Nanyang Technological University|Economics|3190
+2012|National University of Singapore|Bachelor of Science (Hons)|3190
+2012|Nanyang Technological University|Mathematics & Economics|3180
+2012|Nanyang Technological University|English|3179
+2012|Nanyang Technological University|Environmental Engineering|3176
+2012|National University of Singapore|Bachelor of Computing (Information Systems)|3169
+2012|Nanyang Technological University|Sociology|3162
+2012|Nanyang Technological University|Chinese|3157
+2012|National University of Singapore|Bachelor of Arts|3157
+2012|National University of Singapore|Bachelor of Engineering (Materials Science and Engineering)|3139
+2012|Nanyang Technological University|Chemistry & Biological Chemistry|3127
+2012|National University of Singapore|Bachelor of Engineering (Civil Engineering)|3101
+2012|National University of Singapore|Bachelor of Applied Science (Hons)|3079
+2012|Nanyang Technological University|Linguistics And Multilingual Studies|3066
+2012|National University of Singapore|Bachelor of Computing (Communications and Media)|3060
+2012|Nanyang Technological University|Biological Sciences|3055
+2012|National University of Singapore|Bachelor of Science (Project and Facilities Management)|3046
+2012|Nanyang Technological University|Bioengineering|3044
+2012|National University of Singapore|Bachelor of Science (Real Estate)|3042
+2012|Nanyang Technological University|Information Engineering And Media|2974
+2012|National University of Singapore|Bachelor of Engineering (Bioengineering)|2971
+2012|Nanyang Technological University|Accountancy (3-yr direct Honours Programme)|2969
+2012|Nanyang Technological University|Psychology|2953
+2012|Nanyang Technological University|Communication Studies|2941
+2012|National University of Singapore|Bachelor of Science|2920
+2012|National University of Singapore|Bachelor of Arts (Industrial Design)|2886
+2012|National University of Singapore|Bachelor of Business Administration (Accountancy)|2882
+2012|National University of Singapore|Bachelor of Science (Nursing)|2866
+2012|Nanyang Technological University|Biomedical Sciences—Traditional Chinese Medicine|2830
+2012|Nanyang Technological University|Art, Design & Media|2783
+2012|National University of Singapore|Bachelor of Music|2397
+2016|Singapore Management University|Law (4-year programme) Cum Laude and above|5095
+2016|Singapore Management University|Law (4-year programme)|4915
+2016|National University of Singapore|Bachelor of Laws (L.L.B) (Hons)|4898
+2016|National University of Singapore|Bachelor of Medicine and Bachelor Of Surgery|4887
+2016|Singapore Management University|Information Systems Management (4-year programme) Cum Laude and above|4603
+2016|Singapore Management University|Economics (4-year programme) Cum Laude and above|4425
+2016|Nanyang Technological University|Business and Computing|4407
+2016|National University of Singapore|Bachelor of Computing (Computer Science)|4385
+2016|Singapore Management University|Business Management (4-year programme)Cum Laude and above|4234
+2016|National University of Singapore|Bachelor of Dental Surgery|4221
+2016|National University of Singapore|Bachelor of Business Administration (Hons)|4207
+2016|National University of Singapore|Bachelor of Computing (Information Systems)|3969
+2016|National University of Singapore|Bachelor of Arts (Architecture)|3960
+2016|Singapore University of Technology and Design|Bachelor of Engineering (Information Systems Technology and Design)|3952
+2016|Singapore Management University|Accountancy (4-year programme) Cum Laude and above|3943
+2016|National University of Singapore|Bachelor of Engineering (Computer Engineering)|3942
+2016|Singapore Management University|Economics (4-year programme)|3906
+2016|Singapore Management University|Information Systems Management (4-year programme)|3897
+2016|Nanyang Technological University|Accountancy and Business|3893
+2016|National University of Singapore|Bachelor of Engineering (Industrial and Systems Engineering)|3879
+2016|Nanyang Technological University|Computer Science|3848
+2016|Nanyang Technological University|Aerospace Engineering|3840
+2016|Nanyang Technological University|Computer Engineering|3833
+2016|Singapore Management University|Business Management (4-year programme)|3831
+2016|National University of Singapore|Bachelor of Engineering (Electrical Engineering)|3765
+2016|Singapore University of Technology and Design|Bachelor of Engineering (Engineering Systems and Design)|3763
+2016|National University of Singapore|Bachelor of Engineering (Engineering Science)|3707
+2016|Singapore Institute of Technology|University of Glasgow Bachelor of Engineering with Honours in Mechanical Design Engineering|3685
+2016|Nanyang Technological University|Physics / Applied Physics|3683
+2016|Singapore Institute of Technology|Manchester Bachelor of Science with Honours in Nursing Practice|3624
+2016|National University of Singapore|Bachelor of Science (Pharmacy)(Hons)6|3597
+2016|Nanyang Technological University|Information Engineering And Media|3570
+2016|Singapore University of Technology and Design|Bachelor of Engineering (Engineering Product Development)|3565
+2016|National University of Singapore|Bachelor of Engineering (Chemical Engineering)|3562
+2016|National University of Singapore|Bachelor of Engineering (Mechanical Engineering)|3560
+2016|Singapore Management University|Social Sciences (4-year programme) Cum Laude and above|3548
+2016|Nanyang Technological University|Science (with Education)|3546
+2016|Nanyang Technological University|Mathematical Sciences|3535
+2016|National University of Singapore|Bachelor of Science (Nursing) (Hons)|3529
+2016|Nanyang Technological University|Arts (with Education)|3525
+2016|Nanyang Technological University|Electrical And Electronic Engineering|3517
+2016|National University of Singapore|Bachelor of Engineering (Civil Engineering)|3509
+2016|Nanyang Technological University|Mechanical Engineering|3505
+2016|Nanyang Technological University|Civil Engineering|3505
+2016|National University of Singapore|Bachelor of Engineering (Materials Science And Engineering)|3501
+2016|Singapore Institute of Technology|Trinity College Dublin Bachelor in Science (Diagnostic Radiography)|3486
+2016|Nanyang Technological University|Sociology|3480
+2016|Nanyang Technological University|Chemical And Biomolecular Engineering|3476
+2016|National University of Singapore|Bachelor of Engineering (Environmental Engineering)|3470
+2016|Singapore Institute of Technology|Newcastle Bachelor of Engineering with Honours in Offshore Engineering|3469
+2016|National University of Singapore|Bachelor of Business Administration (Accountancy) (Hons)|3465
+2016|Nanyang Technological University|Mathematics & Economics|3458
+2016|Singapore Management University|Accountancy (4-year programme)|3455
+2016|Singapore Institute of Technology|Newcastle Bachelor of Engineering with Honours in Electrical Power Engineering|3452
+2016|Nanyang Technological University|Business|3444
+2016|Nanyang Technological University|Economics|3440
+2016|National University of Singapore|Bachelor of Social Sciences|3423
+2016|Singapore Institute of Technology|Newcastle Bachelor of Engineering with Honours in Chemical Engineering|3405
+2016|Singapore Institute of Technology|University of Glasgow Bachelor of Engineering with Honours in Mechatronics|3404
+2016|National University of Singapore|Bachelor of Environmental Studies|3399
+2016|Singapore Institute of Technology|University of Glasgow Bachelor of Science with Honours in Computing Science|3391
+2016|National University of Singapore|Bachelor of Science (Hons)|3386
+2016|National University of Singapore|Bachelor of Science (Real Estate)|3368
+2016|Nanyang Technological University|Linguistics And Multilingual Studies|3368
+2016|National University of Singapore|Bachelor of Engineering (Biomedical Engineering)|3366
+2016|National University of Singapore|Bachelor of Science (Nursing)|3363
+2016|Singapore Institute of Technology|Newcastle Bachelor of Engineering with Honours in Marine Engineering|3354
+2016|Singapore Institute of Technology|DigiPen Bachelor of Science in Computer Science in Real- Time Interactive Simulation|3346
+2016|Nanyang Technological University|Chinese|3345
+2016|Singapore Institute of Technology|Technische Universität München Bachelor of Science in Electrical Engineering & Information Technology|3339
+2016|Nanyang Technological University|Maritime Studies|3328
+2016|National University of Singapore|Bachelor of Arts (Hons)|3321
+2016|National University of Singapore|Bachelor of Arts (Industrial Design)|3320
+2016|Nanyang Technological University|Bioengineering|3317
+2016|Nanyang Technological University|Materials Engineering|3317
+2016|Singapore Management University|Social Sciences (4-year programme)|3311
+2016|Singapore Institute of Technology|Trinity College Dublin Bachelor in Science (Physiotherapy)|3310
+2016|National University of Singapore|Bachelor of Business Administration|3282
+2016|Nanyang Technological University|Sports Science and Management|3272
+2016|Singapore Institute of Technology|Newcastle Bachelor of Engineering with Honours in Naval Architecture|3266
+2016|Singapore Institute of Technology|Newcastle Bachelor of Engineering with Honours in Mechanical Design & Manufacturing Engineering|3266
+2016|National University of Singapore|Bachelor of Music|3250
+2016|Nanyang Technological University|Chemistry & Biological Chemistry|3234
+2016|Nanyang Technological University|Biological Sciences|3222
+2016|Nanyang Technological University|Environmental Engineering|3216
+2016|Singapore Institute of Technology|University of Glasgow Bachelor of Engineering with Honours in Aerospace Systems|3185
+2016|Singapore Institute of Technology|Trinity College Dublin Bachelor in Science (Occupational Therapy)|3149
+2016|Nanyang Technological University|Psychology|3136
+2016|National University of Singapore|Bachelor of Science (Project and Facilities Management)|3113
+2016|Nanyang Technological University|History|3082
+2016|National University of Singapore|Bachelor of Arts|3063
+2016|Nanyang Technological University|Accountancy|3063
+2016|National University of Singapore|Bachelor of Applied Science (Hons)|3058
+2016|National University of Singapore|Bachelor of Business Administration (Accountancy)|3020
+2016|Nanyang Technological University|English|2997
+2016|Nanyang Technological University|Communication Studies|2996
+2016|National University of Singapore|Bachelor of Science|2995
+2016|Singapore Institute of Technology|Technische Universität München Bachelor of Science in Chemical Engineering|2970
+2016|Singapore Institute of Technology|Glasgow School of Art Bachelor of Arts with Honours in Communication Design|2922
+2016|Singapore Institute of Technology|Glasgow School of Art Bachelor of Arts with Honours in Interior Design|2893
+2016|Singapore Institute of Technology|Newcastle Bachelor of Science with Honours in Food & Human Nutrition|2876
+2016|Singapore Institute of Technology|University of Glasgow Bachelor of Engineering with Honours in Aeronautical Engineering|2840
+2016|Singapore Institute of Technology|Wheelock Bachelor of Science in Early Childhood Education|2807
+2016|Nanyang Technological University|Art, Design & Media|2761
+2016|Singapore Institute of Technology|DigiPen Bachelor of Fine Arts in Digital Arts & Animation|2682
+2016|Singapore Institute of Technology|Nevada Bachelor of Science (Major in Hospitality Management)|2607
+2016|Singapore Institute of Technology|Culinary Institute of America Bachelor of Professional Studies in Culinary Arts Management|2586
+2016|Nanyang Technological University|Biomedical Sciences & Chinese Medicine|2577

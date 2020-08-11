@@ -1,0 +1,220 @@
+# Metadata for Graduate Employment Survey - NTU, NUS, SIT, SMU & SUTD
+---
+Identifier: 'aa812691-df21-4c0a-b553-85336695f872'
+Name: 'graduate-employment-survey-ntu-nus-sit-smu-sutd'
+Title: 'Graduate Employment Survey - NTU, NUS, SIT, SMU & SUTD'
+Description:
+  - 'The Graduate Employment Survey (GES) is jointly conducted by NTU, NUS, SMU, SIT
+    (from 2014) and SUTD (from 2015) annually to survey the employment conditions
+    of graduates about six months after their final examinations.  The Ministry of
+    Education (MOE) publishes the results of key employment indicators of the survey
+    to provide prospective students with timely and comparable data to assist them
+    in making informed course decisions.  Graduates from NTU, NUS and SMU were surveyed
+    in Nov.  Due to their different academic calendars, graduates from SUTD and SIT
+    were surveyed in Feb and Mar.'
+  - ''
+  - '2015 GES:'
+  - ''
+  - '*  5,774 graduates from NTU were surveyed and the overall response rate obtained
+    was 71.9%.'
+  - '*  6,188 graduates from NUS were surveyed and the overall response rate obtained
+    was 74.8%.'
+  - '* 1,638 graduates from SMU were surveyed and the overall response rate obtained
+    was 76.2%.'
+  - '* 298 graduates from SUTD were surveyed and the overall response rate was 86.2%.'
+  - ''
+  - '2014 GES:  14,868 graduates from NTU, NUS, SIT and SMU were surveyed and the
+    overall response rate obtained was 75%.'
+  - ''
+  - '2013 GES:  15,365 graduates from NTU, NUS and SMU were surveyed and the overall
+    response rate obtained was 72%.'
+  - ''
+  - 'Notes:'
+  - ''
+  - 'The employment rates refer to the number of graduates employed as a proportion
+    of economically active graduates (i.e. graduates who engage actively in the labour
+    market either by working or looking for a job) approximately 6 months after completing
+    their final examinations.'
+  - ''
+  - 'Basic monthly salary pertains only to full-time permanently employed graduates.  It
+    comprises basic pay before deductions of the employee’s CPF contributions and
+    personal income tax.  Employer’s CPF contributions, bonuses, stock options, overtime
+    payments, commissions, allowances, other monetary and lump sum payments, and payments-in-kind
+    are excluded.'
+  - ''
+  - 'Gross monthly salary pertains only to full-time permanently employed graduates.  It
+    comprises the basic salary, fixed allowances, over-time pay and commissions, before
+    deductions of the employee’s CPF contributions and personal income tax.  Employer’s
+    CPF contributions, bonuses, stock options, other lump sum payments, and payments-in-kind
+    are excluded.'
+  - ''
+  - '\*  SMU''s courses are direct 4-yr programmes and graduates could be awarded
+    Cum Laude and above, Merit, High Merit or no awards.  The data for SMU''s courses
+    is displayed in two categories: (i) overall results for all graduates within the
+    course regardless of the award they attained, and (ii) results for the graduates
+    awarded Cum Laude and above.  Should the graduates undertake more than 1 Degree
+    (e.g. Dual Degree programme), they have been classified based on their first Degree.'
+  - ''
+  - '\#  National Institute of Education (NIE) is an autonomous institute of NTU.'
+  - ''
+  - '^  Data on Biomedical Sciences (Traditional Chinese Medicine) graduates is obtained
+    from a follow-up survey on those who graduated 1 year ago (e.g. for 2015 GES survey,
+    data is obtained from 2014 graduates) after they have completed their practical
+    training.'
+  - ''
+  - '\**  No data is shown due to the small number of graduates and/or low response
+    rates.'
+  - ''
+  - '\##  Data on law, medical and pharmacy graduates are obtained from a follow-up
+    survey on those who graduated 1 year ago (e.g. for 2015 GES survey, data is obtained
+    from 2014 graduates) after they have completed their 1-year practical law course/pupillage/housemanship/first-year
+    residency.  Data on architecture graduates are obtained from a follow-up survey
+    on those who graduated 3 years ago (e.g. for 2015 GES survey, data is obtained
+    from 2012 graduates) after they have completed their practical training.'
+  - ''
+  - '^^  Data includes the employment figures of graduates from Bachelor of Engineering
+    (Bioengineering), which was merged into Bachelor of Engineering (Biomedical Engineering)
+    in 2014.'
+  - ''
+  - '@@  The Bachelor of Environmental Studies is a multidisciplinary programme that
+    allows graduates to specialise in either Environmental Biology within the Faculty
+    of Science, or Environmental Geography within the Faculty of Arts and Social Sciences.'
+  - ''
+  - '++  Data on law graduates are obtained from a follow-up survey on those who graduated
+    1 year ago (e.g. for 2015 GES survey, data is obtained from 2014 graduates) after
+    they have completed their practical law course/pupillage.'
+  - ''
+  - '\###  Data on Bachelor of Science (Architecture and Sustainable Design) graduates
+    will be obtained from a follow-up survey on the graduates after they have completed
+    their practical training.'
+  - ''
+  - ''
+  - 'Disclaimer:'
+  - 'The data published is provided on an “as is” basis without any warranties of
+    any kind.  To the fullest extent permitted by law, MOE does not warrant and hereby
+    disclaims any warranty as to the accuracy, correctness, completeness, reliability
+    or fitness for any particular purpose of such data.  The reader assumes all responsibility
+    and risk for the use of such data.  MOE shall not be liable for any damage or
+    loss of any kind caused as a result (directly or indirectly) of the use of such
+    data, including but not limited to any damage or loss suffered as a result of
+    reliance on the data published.'
+Topics:
+  - 'Education'
+Keywords:
+  - 'Degree'
+  - 'Employment'
+  - 'Jobs'
+  - 'Salaries'
+  - 'University'
+Publisher:
+  Name: 'Ministry of Education'
+  Admin 1:
+    Name: 'Christina Leow'
+    Department: 'Planning Division'
+    Email: 'christina_leow@moe.gov.sg'
+  Admin 2:
+    Name: 'Chua Boon Wee'
+    Department: 'Planning Division'
+    Email: 'chua_boon_wee@moe.gov.sg'
+Sources:
+  - 'Ministry of Education'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2013-01-01 to 2015-12-31'
+Last Updated: '2017-04-21T06:48:39.337952'
+Resources:
+  -
+    Identifier: '9326ca53-9153-4a9c-b93f-8ae032637b70'
+    Title: 'Graduate Employment Survey - NTU, NUS, SIT, SMU & SUTD'
+    Url: 'https://storage.data.gov.sg/graduate-employment-survey-ntu-nus-sit-smu-sutd/resources/graduate-employment-survey-ntu-nus-sit-smu-sutd-2016-04-08T08-18-50Z.csv'
+    Format: 'CSV'
+    Coverage: '2013-01-01 to 2015-12-31'
+    Last Updated: '2016-04-08T08:18:50.046783'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'university'
+        Title: 'University'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'school'
+        Title: 'School'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: '"na" : Data not available or not applicable'
+      -
+        Name: 'degree'
+        Title: 'Degree'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'employment_rate_overall'
+        Title: 'Overall Employment Rate'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Overall employment includes all types of full-time, part-time and temporary
+            employment.'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+          - '"na" : Data not available or not applicable'
+      -
+        Name: 'employment_rate_permanent'
+        Title: 'Full-Time Permanent Employment Rate'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Full-time permanent employment refers to employment of at least 35 hours
+            a week and where the employment is not temporary.  It includes those on
+            contracts of one year or more.'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+          - '"na" : Data not available or not applicable'
+      -
+        Name: 'basic_monthly_mean'
+        Title: 'Basic Monthly Salary - Mean'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+        Description: '"na" : Data not available or not applicable'
+      -
+        Name: 'basic_monthly_median'
+        Title: 'Basic Monthly Salary - Median'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+        Description: '"na" : Data not available or not applicable'
+      -
+        Name: 'gross_monthly_mean'
+        Title: 'Gross Monthly Salary - Mean'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+        Description: '"na" : Data not available or not applicable'
+      -
+        Name: 'gross_monthly_median'
+        Title: 'Gross Monthly Salary - Median'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+        Description: '"na" : Data not available or not applicable'
+      -
+        Name: 'gross_mthly_25_percentile'
+        Title: 'Gross Monthly Salary - 25th Percentile'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+        Description: '"na" : Data not available or not applicable'
+      -
+        Name: 'gross_mthly_75_percentile'
+        Title: 'Gross Monthly Salary - 75th Percentile'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+        Description: '"na" : Data not available or not applicable'

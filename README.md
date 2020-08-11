@@ -1,7 +1,15 @@
 ![](https://img.shields.io/badge/language-python-blue)
 ![](https://img.shields.io/badge/technology-python,%20data%20science-blue)
 ![](https://img.shields.io/badge/development%20year-2018-orange)
+![](https://img.shields.io/badge/contributor-shijian%20su-purple)
 ![](https://img.shields.io/badge/license-MIT-lightgrey)
+
+![](https://img.shields.io/github/languages/top/shijiansu/ds-python-coursera-applied-data-science-with-python)
+![](https://img.shields.io/github/languages/count/shijiansu/ds-python-coursera-applied-data-science-with-python)
+![](https://img.shields.io/github/languages/code-size/shijiansu/ds-python-coursera-applied-data-science-with-python)
+![](https://img.shields.io/github/repo-size/shijiansu/ds-python-coursera-applied-data-science-with-python)
+![](https://img.shields.io/github/last-commit/shijiansu/ds-python-coursera-applied-data-science-with-python?color=red)
+![](https://github.com/shijiansu/ds-python-coursera-applied-data-science-with-python/workflows/ci%20build/badge.svg)
 
 --------------------------------------------------------------------------------
 

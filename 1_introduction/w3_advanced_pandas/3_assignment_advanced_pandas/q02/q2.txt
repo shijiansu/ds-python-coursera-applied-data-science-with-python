@@ -1,0 +1,9 @@
+
+Hi everyone,
+The question 2 is not related to the question 1 answer (so please consider the full dataset, instead of top 15 records only). The task mostly concentrates on the "join - inner and outer".
+And there is no requirement on the full data clean up. What you need to do is following the question 1 instruction to clean those countries only. If you look inside the data, you can find some of the countries are not matching in different files after question 1 clean up, but that is OK because it is not required in the assignment.
+Here is the length for your reference also,
+Length: energy = 227, GDP = 264, ScimEn = 191
+Hopefully it can help you, thank you.
+
+Shijian

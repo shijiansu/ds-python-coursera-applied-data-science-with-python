@@ -1,0 +1,122 @@
+# Metadata for Gross Domestic Product At Current Market Prices, By Industry (SSIC 2015), Quarterly
+---
+Identifier: '9e644211-49d7-462b-9c8f-8fe29ae69b93'
+Name: 'gross-domestic-product-at-current-market-prices-quarterly'
+Title: 'Gross Domestic Product At Current Market Prices, By Industry (SSIC 2015),
+  Quarterly'
+Description: 'The aggregate value of goods and services produced in the economic territory
+  of Singapore. Estimates are compiled based on the best available data at the time
+  of release. They may be subsequently revised when new data becomes available.'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'economy'
+  - 'gdp'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'SingStat Info'
+    Department: 'Statistics Information Services'
+    Email: 'info@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+Source Url: 'http://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=12398&exportType=csv'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Quarterly'
+Coverage: '1975-01-01 to 2017-03-31'
+Last Updated: '2017-05-26T16:31:32.616281'
+Resources:
+  -
+    Identifier: 'b74a39ad-a7fa-40c4-9a90-75d08230e786'
+    Title: 'Gross Domestic Product At Current Market Prices, Quarterly'
+    Url: 'https://storage.data.gov.sg/gross-domestic-product-at-current-market-prices-quarterly/resources/gross-domestic-product-at-current-market-prices-quarterly-2017-05-26T16-31-17Z.csv'
+    Format: 'CSV'
+    Coverage: '1975-01-01 to 2017-03-31'
+    Last Updated: '2017-05-26T16:31:17.005450'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'level_1'
+        Title: 'Main'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Million'
+  -
+    Identifier: '07b47f32-5166-49a4-beb0-e93494fb4441'
+    Title: 'Gross Domestic Product At Current Market Prices by Industry, Quarterly'
+    Url: 'https://storage.data.gov.sg/gross-domestic-product-at-current-market-prices-quarterly/resources/gross-domestic-product-at-current-market-prices-by-industry-quarterly-2017-05-26T16-31-23Z.csv'
+    Format: 'CSV'
+    Coverage: '1975-01-01 to 2017-03-31'
+    Last Updated: '2017-05-26T16:31:23.229084'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'level_1'
+        Title: 'Main'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Industry'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Industry Group'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Million'
+  -
+    Identifier: '973455d6-8650-4bf3-b4f2-47f7b706e0a7'
+    Title: 'Gross Domestic Product At Current Market Prices by Detailed Industry,
+      Quarterly'
+    Url: 'https://storage.data.gov.sg/gross-domestic-product-at-current-market-prices-quarterly/resources/gross-domestic-product-at-current-market-prices-by-detailed-industry-quarterly-2017-05-26T16-31-32Z.csv'
+    Format: 'CSV'
+    Coverage: '1975-01-01 to 2017-03-31'
+    Last Updated: '2017-05-26T16:31:32.429470'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'level_1'
+        Title: 'Main'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Industry'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Industry Group'
+      -
+        Name: 'level_3'
+        Title: 'Detailed Industry'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Industry'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Million'
